@@ -1,0 +1,50 @@
+[
+  {
+    "file": "news_vertical_9x16.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 4500,
+    "duration": 150,
+    "video": "h264",
+    "pixel_format": "yuv420p",
+    "audio_unchanged": true,
+    "audio_hash": "SHA256=84887923d5868358d4a0b426db3bb1c275c7ecebf762932984304a9dd052e7ed",
+    "sha256": "1666df33faaf306ae1fbcd926f0ff9a089be0f22f9a0c992ba14fe1d3871e669",
+    "full_decode_passed": true,
+    "bytes": 8771507,
+    "faststart": true
+  },
+  {
+    "file": "news_stories_9x16.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 4500,
+    "duration": 150,
+    "video": "h264",
+    "pixel_format": "yuv420p",
+    "audio_unchanged": true,
+    "audio_hash": "SHA256=84887923d5868358d4a0b426db3bb1c275c7ecebf762932984304a9dd052e7ed",
+    "sha256": "1666df33faaf306ae1fbcd926f0ff9a089be0f22f9a0c992ba14fe1d3871e669",
+    "full_decode_passed": true,
+    "bytes": 8771507,
+    "faststart": true
+  },
+  {
+    "file": "news_feed_4x5.mp4",
+    "width": 1080,
+    "height": 1350,
+    "fps": 30,
+    "frames": 4500,
+    "duration": 150,
+    "video": "h264",
+    "pixel_format": "yuv420p",
+    "audio_unchanged": true,
+    "audio_hash": "SHA256=84887923d5868358d4a0b426db3bb1c275c7ecebf762932984304a9dd052e7ed",
+    "sha256": "ae769edd7f04e932438167e39e775d976f8e64215b54b55075d56851e537b050",
+    "full_decode_passed": true,
+    "bytes": 8370501,
+    "faststart": true
+  }
+]

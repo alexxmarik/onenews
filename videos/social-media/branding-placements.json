@@ -1,0 +1,31 @@
+{
+  "badge": "/workspace/canada-ukraine-news/assets/one-news-bug.png",
+  "badge_size": [
+    312,
+    84
+  ],
+  "placements": {
+    "news_vertical_9x16.mp4": {
+      "top": [
+        620,
+        140
+      ],
+      "bottom": [
+        64,
+        1560
+      ]
+    },
+    "news_feed_4x5.mp4": {
+      "top": [
+        704,
+        14
+      ],
+      "bottom": [
+        64,
+        1248
+      ]
+    }
+  },
+  "stories": "identical placement to vertical",
+  "visibility": "all 4500 frames, including the first and last"
+}
