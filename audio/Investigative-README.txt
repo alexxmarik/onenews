@@ -1,0 +1,1 @@
+Original instrumental background composed procedurally for ONE NEWS. 58 seconds. No sampled recordings, vocals, speech, sirens or gunshot effects. Source synthesis script included. Tempo 88 BPM. Add under your own narration and adjust volume in CapCut.
