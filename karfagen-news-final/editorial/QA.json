@@ -1,0 +1,57 @@
+{
+  "duration": 236.0,
+  "frames": 7080,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "source_clips": 43,
+  "original_statements": 7,
+  "author_windows": [
+    {
+      "start": 0,
+      "end": 6,
+      "author_window_silent": true
+    },
+    {
+      "start": 17.9,
+      "end": 37.9,
+      "author_window_silent": true
+    },
+    {
+      "start": 55.8,
+      "end": 69.8,
+      "author_window_silent": true
+    },
+    {
+      "start": 84.9,
+      "end": 108.9,
+      "author_window_silent": true
+    },
+    {
+      "start": 127.5,
+      "end": 148.5,
+      "author_window_silent": true
+    },
+    {
+      "start": 161,
+      "end": 173.5,
+      "author_window_silent": true
+    },
+    {
+      "start": 187.9,
+      "end": 211.9,
+      "author_window_silent": true
+    },
+    {
+      "start": 217.7,
+      "end": 236,
+      "author_window_silent": true
+    }
+  ],
+  "full_decode": "passed, ffmpeg exit 0",
+  "remotion_still": "passed, system Chromium",
+  "visual_review": "contact sheet and source selections checked; no claim of recovered native HD",
+  "blackdetect_review": "Near-black matches inspected: dark original diagrams, quoted chat graphics and closing shot; not missing media."
+}
