@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "duration_seconds": 252,
+  "frames": 7560,
+  "original_sound_excerpts": 6,
+  "original_sound_seconds": 67.3,
+  "original_sound_starts_at": 0,
+  "audio_streams": 1,
+  "commentary_in_burned_subtitles": true,
+  "caption_pages": 73,
+  "caption_coverage": "complete 0–252 seconds, no missing author words",
+  "normalization_target_lufs": -16,
+  "audio_windows": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "rms_dbfs": -18.8
+    },
+    {
+      "start": 18,
+      "end": 29.9,
+      "rms_dbfs": -19.23
+    },
+    {
+      "start": 67,
+      "end": 84.9,
+      "rms_dbfs": -18.64
+    },
+    {
+      "start": 102,
+      "end": 117.1,
+      "rms_dbfs": -18.61
+    },
+    {
+      "start": 165,
+      "end": 170.4,
+      "rms_dbfs": -18.74
+    },
+    {
+      "start": 177.9,
+      "end": 190.4,
+      "rms_dbfs": -18.63
+    }
+  ],
+  "author_voice_generated": false,
+  "empty_voiceover_in_project": true,
+  "source_player_ui": "excluded by clean viewport crop",
+  "blurred_subtitle_bands": false,
+  "ffmpeg_full_decode": "passed",
+  "source_interval_repeats": false,
+  "sha256": "9e499ca81682acd05d90b1218780fd7556c10328f3242763b7603c9d977b4fc3",
+  "bytes": 37708690
+}

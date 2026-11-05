@@ -1,0 +1,22 @@
+{
+  "name": "karfagen-reels-v2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port=3001",
+    "render": "remotion render src/index.ts KarfagenV2 out/karfagen-v2.mp4 --codec=h264 --crf=21"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.540",
+    "@remotion/cli": "4.0.540",
+    "@remotion/fonts": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,1597 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationFrames": 7560,
+  "clips": [
+    {
+      "id": "00",
+      "fromFrame": 0,
+      "durationFrames": 135,
+      "part": 2,
+      "sourceNormalStart": 494.5,
+      "sourceRecordingStart": 247.25,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/00.mp4"
+    },
+    {
+      "id": "01",
+      "fromFrame": 135,
+      "durationFrames": 105,
+      "part": 1,
+      "sourceNormalStart": 50,
+      "sourceRecordingStart": 25.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/01.mp4"
+    },
+    {
+      "id": "02",
+      "fromFrame": 240,
+      "durationFrames": 120,
+      "part": 2,
+      "sourceNormalStart": 58,
+      "sourceRecordingStart": 29.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/02.mp4"
+    },
+    {
+      "id": "03",
+      "fromFrame": 360,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 135,
+      "sourceRecordingStart": 67.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/03.mp4"
+    },
+    {
+      "id": "04",
+      "fromFrame": 540,
+      "durationFrames": 357,
+      "part": 1,
+      "sourceNormalStart": 6.3,
+      "sourceRecordingStart": 3.15,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/04.mp4"
+    },
+    {
+      "id": "05",
+      "fromFrame": 897,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 68.5,
+      "sourceRecordingStart": 34.25,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/05.mp4"
+    },
+    {
+      "id": "06",
+      "fromFrame": 1047,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 80,
+      "sourceRecordingStart": 40.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/06.mp4"
+    },
+    {
+      "id": "07",
+      "fromFrame": 1197,
+      "durationFrames": 153,
+      "part": 1,
+      "sourceNormalStart": 96,
+      "sourceRecordingStart": 48.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/07.mp4"
+    },
+    {
+      "id": "08",
+      "fromFrame": 1350,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 108,
+      "sourceRecordingStart": 54.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/08.mp4"
+    },
+    {
+      "id": "09",
+      "fromFrame": 1500,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 155,
+      "sourceRecordingStart": 77.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/09.mp4"
+    },
+    {
+      "id": "10",
+      "fromFrame": 1650,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 525,
+      "sourceRecordingStart": 262.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/10.mp4"
+    },
+    {
+      "id": "11",
+      "fromFrame": 1830,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 480,
+      "sourceRecordingStart": 240.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/11.mp4"
+    },
+    {
+      "id": "12",
+      "fromFrame": 2010,
+      "durationFrames": 537,
+      "part": 1,
+      "sourceNormalStart": 504.1,
+      "sourceRecordingStart": 252.05,
+      "mode": "wide",
+      "audio": true,
+      "file": "clips/12.mp4"
+    },
+    {
+      "id": "13",
+      "fromFrame": 2547,
+      "durationFrames": 153,
+      "part": 1,
+      "sourceNormalStart": 460,
+      "sourceRecordingStart": 230,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/13.mp4"
+    },
+    {
+      "id": "14",
+      "fromFrame": 2700,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 685,
+      "sourceRecordingStart": 342.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/14.mp4"
+    },
+    {
+      "id": "15",
+      "fromFrame": 2880,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 450,
+      "sourceRecordingStart": 225,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/15.mp4"
+    },
+    {
+      "id": "16",
+      "fromFrame": 3060,
+      "durationFrames": 453,
+      "part": 1,
+      "sourceNormalStart": 539.4,
+      "sourceRecordingStart": 269.7,
+      "mode": "wide",
+      "audio": true,
+      "file": "clips/16.mp4"
+    },
+    {
+      "id": "17",
+      "fromFrame": 3513,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1051,
+      "sourceRecordingStart": 525.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/17.mp4"
+    },
+    {
+      "id": "18",
+      "fromFrame": 3693,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1063,
+      "sourceRecordingStart": 531.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/18.mp4"
+    },
+    {
+      "id": "19",
+      "fromFrame": 3873,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1260,
+      "sourceRecordingStart": 630.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/19.mp4"
+    },
+    {
+      "id": "20",
+      "fromFrame": 4053,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1357,
+      "sourceRecordingStart": 678.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/20.mp4"
+    },
+    {
+      "id": "21",
+      "fromFrame": 4233,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1377,
+      "sourceRecordingStart": 688.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/21.mp4"
+    },
+    {
+      "id": "22",
+      "fromFrame": 4413,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1440,
+      "sourceRecordingStart": 720.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/22.mp4"
+    },
+    {
+      "id": "23",
+      "fromFrame": 4593,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 70,
+      "sourceRecordingStart": 35.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/23.mp4"
+    },
+    {
+      "id": "24",
+      "fromFrame": 4773,
+      "durationFrames": 177,
+      "part": 2,
+      "sourceNormalStart": 235,
+      "sourceRecordingStart": 117.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/24.mp4"
+    },
+    {
+      "id": "25",
+      "fromFrame": 4950,
+      "durationFrames": 162,
+      "part": 2,
+      "sourceNormalStart": 511.8,
+      "sourceRecordingStart": 255.9,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/25.mp4"
+    },
+    {
+      "id": "26",
+      "fromFrame": 5112,
+      "durationFrames": 225,
+      "part": 2,
+      "sourceNormalStart": 592,
+      "sourceRecordingStart": 296,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/26.mp4"
+    },
+    {
+      "id": "27",
+      "fromFrame": 5337,
+      "durationFrames": 375,
+      "part": 2,
+      "sourceNormalStart": 579.1,
+      "sourceRecordingStart": 289.55,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/27.mp4"
+    },
+    {
+      "id": "28",
+      "fromFrame": 5712,
+      "durationFrames": 120,
+      "part": 2,
+      "sourceNormalStart": 1255.8,
+      "sourceRecordingStart": 627.9,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/28.mp4"
+    },
+    {
+      "id": "29",
+      "fromFrame": 5832,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 1261.8,
+      "sourceRecordingStart": 630.9,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/29.mp4"
+    },
+    {
+      "id": "30",
+      "fromFrame": 6012,
+      "durationFrames": 183,
+      "part": 2,
+      "sourceNormalStart": 1285.5,
+      "sourceRecordingStart": 642.75,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/30.mp4"
+    },
+    {
+      "id": "31",
+      "fromFrame": 6195,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 486.2,
+      "sourceRecordingStart": 243.1,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/31.mp4"
+    },
+    {
+      "id": "32",
+      "fromFrame": 6345,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 491.4,
+      "sourceRecordingStart": 245.7,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/32.mp4"
+    },
+    {
+      "id": "33",
+      "fromFrame": 6495,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 534.1,
+      "sourceRecordingStart": 267.05,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/33.mp4"
+    },
+    {
+      "id": "34",
+      "fromFrame": 6645,
+      "durationFrames": 150,
+      "part": 2,
+      "sourceNormalStart": 684,
+      "sourceRecordingStart": 342.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/34.mp4"
+    },
+    {
+      "id": "35",
+      "fromFrame": 6795,
+      "durationFrames": 150,
+      "part": 2,
+      "sourceNormalStart": 708,
+      "sourceRecordingStart": 354.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/35.mp4"
+    },
+    {
+      "id": "36",
+      "fromFrame": 6945,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 1371.7,
+      "sourceRecordingStart": 685.85,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/36.mp4"
+    },
+    {
+      "id": "37",
+      "fromFrame": 7125,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 118,
+      "sourceRecordingStart": 59.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/37.mp4"
+    },
+    {
+      "id": "38",
+      "fromFrame": 7305,
+      "durationFrames": 150,
+      "part": 2,
+      "sourceNormalStart": 1428,
+      "sourceRecordingStart": 714.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/38.mp4"
+    },
+    {
+      "id": "39",
+      "fromFrame": 7455,
+      "durationFrames": 105,
+      "part": 1,
+      "sourceNormalStart": 350,
+      "sourceRecordingStart": 175.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/39.mp4"
+    }
+  ],
+  "narration": [
+    {
+      "start": 4.5,
+      "end": 18,
+      "text": "Колцентри, наркотики та ймовірне прикриття силовиків. НАБУ і САП оприлюднили продовження операції «Карфаген». За версією слідства, до нової організації входили щонайменше дванадцять осіб. Що саме їм інкримінують, пояснює керівник підрозділу детективів НАБУ Олександр Абакумов.",
+      "captions": [
+        {
+          "text": "Колцентри, наркотики та\nймовірне прикриття силовиків.",
+          "startMs": 0,
+          "endMs": 2432,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "НАБУ і САП оприлюднили\nпродовження операції\n«Карфаген».",
+          "startMs": 2432,
+          "endMs": 5242,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "За версією слідства, до нової\nорганізації входили\nщонайменше дванадцять осіб.",
+          "startMs": 5242,
+          "endMs": 9182,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Що саме їм інкримінують,\nпояснює керівник",
+          "startMs": 9182,
+          "endMs": 11445,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "підрозділу детективів НАБУ\nОлександр Абакумов.",
+          "startMs": 11445,
+          "endMs": 13500,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 29.9,
+      "end": 67,
+      "text": "Це новий епізод операції, про яку антикорупційні органи повідомляли у вересні. Двадцять другого жовтня вони оголосили ще одну підозру в попередньому епізоді. Тепер слідство описує іншу організацію. Її керівником називає «Кримінала», а одним із ключових учасників — «Мексиканця». Українська правда з посиланням на власні джерела пов’язує «Кримінала» з Андрієм Осіповим. Це ідентифікація видання. У матеріалах також фігурують поліцейські «Прайс» і «Консультант» та високопосадовець СБУ «Акім». За версією детективів, їхні зв’язки забезпечували прикриття незаконної діяльності. Як описують платежі в НАБУ?",
+      "captions": [
+        {
+          "text": "Це новий епізод операції, про\nяку антикорупційні органи\nповідомляли у вересні.",
+          "startMs": 0,
+          "endMs": 5115,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Двадцять другого жовтня вони\nоголосили ще одну підозру в\nпопередньому епізоді.",
+          "startMs": 5115,
+          "endMs": 10230,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Тепер слідство описує іншу\nорганізацію.",
+          "startMs": 10230,
+          "endMs": 12664,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Її керівником називає\n«Кримінала», а одним із\nключових учасників —",
+          "startMs": 12664,
+          "endMs": 17132,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "«Мексиканця».",
+          "startMs": 17132,
+          "endMs": 17779,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Українська правда з посиланням\nна власні джерела пов’язує\n«Кримінала» з Андрієм Осіповим.",
+          "startMs": 17779,
+          "endMs": 23341,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Це ідентифікація видання.",
+          "startMs": 23341,
+          "endMs": 24882,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "У матеріалах також фігурують\nполіцейські «Прайс» і\n«Консультант» та",
+          "startMs": 24882,
+          "endMs": 28903,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "високопосадовець СБУ «Акім».",
+          "startMs": 28903,
+          "endMs": 30444,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "За версією детективів, їхні\nзв’язки забезпечували\nприкриття незаконної",
+          "startMs": 30444,
+          "endMs": 34018,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "діяльності.",
+          "startMs": 34018,
+          "endMs": 34665,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Як описують платежі в НАБУ?",
+          "startMs": 34665,
+          "endMs": 37100,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 84.9,
+      "end": 102,
+      "text": "Це пояснення слідства, а не рішення суду. Окремий платіж не можна називати загальними збитками. У фільмі також показано листування про повернення вилученої техніки через суд. А ось як НАБУ оцінює масштаб мережі.",
+      "captions": [
+        {
+          "text": "Це пояснення слідства, а не\nрішення суду.",
+          "startMs": 0,
+          "endMs": 3769,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Окремий платіж не можна\nназивати загальними збитками.",
+          "startMs": 3769,
+          "endMs": 7538,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "У фільмі також показано\nлистування про повернення\nвилученої техніки через суд.",
+          "startMs": 7538,
+          "endMs": 13331,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "А ось як НАБУ оцінює масштаб\nмережі.",
+          "startMs": 13331,
+          "endMs": 17100,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 117.1,
+      "end": 165,
+      "text": "Розслідування не обмежується колцентрами. НАБУ також заявляє про контакти «Мексиканця» з ФСБ Росії. Незалежного підтвердження цих зв’язків у нас немає. За версією НАБУ, «Мексиканець» пов’язаний із «Хімпромом», а фігуранти обговорювали бізнес мережі U420 та можливість впливати на правила обігу речовин. У фільмі окремо зазначено: описаний план підкупу не вдалося реалізувати. Згадування посадовця в чужій розмові не доводить, що він брав у цьому участь або отримував гроші. Ще один напрям — можливий тиск на журналістів. Слідство оприлюднило обговорення щодо Дениса Бігуса та інших критиків цієї діяльності. Погрози й обговорення планів не слід автоматично називати здійсненими нападами. Детективи також заявляють про підроблення євро та ймовірні насильницькі злочини. Серед імовірних виконавців слідство називає «Боксера» та «Пашу». Про дії за кордоном Абакумов говорить так.",
+      "captions": [
+        {
+          "text": "Розслідування не обмежується\nколцентрами.",
+          "startMs": 0,
+          "endMs": 1700,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "НАБУ також заявляє про\nконтакти «Мексиканця» з ФСБ\nРосії.",
+          "startMs": 1700,
+          "endMs": 5309,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Незалежного підтвердження\nцих зв’язків у нас немає.",
+          "startMs": 5309,
+          "endMs": 8155,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "За версією НАБУ, «Мексиканець»\nпов’язаний із «Хімпромом», а\nфігуранти обговорювали бізнес",
+          "startMs": 8155,
+          "endMs": 12357,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "мережі U420 та можливість\nвпливати на правила обігу\nречовин.",
+          "startMs": 12357,
+          "endMs": 15967,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "У фільмі окремо зазначено:\nописаний план підкупу не\nвдалося реалізувати.",
+          "startMs": 15967,
+          "endMs": 19958,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Згадування посадовця в чужій\nрозмові не доводить, що він брав\nу цьому",
+          "startMs": 19958,
+          "endMs": 24542,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "участь або отримував гроші.",
+          "startMs": 24542,
+          "endMs": 26242,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Ще один напрям — можливий\nтиск на журналістів.",
+          "startMs": 26242,
+          "endMs": 29470,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Слідство оприлюднило\nобговорення щодо Дениса Бігуса\nта інших критиків цієї діяльності.",
+          "startMs": 29470,
+          "endMs": 33843,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Погрози й обговорення планів не\nслід автоматично називати\nздійсненими нападами.",
+          "startMs": 33843,
+          "endMs": 37835,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Детективи також заявляють про\nпідроблення євро та ймовірні\nнасильницькі злочини.",
+          "startMs": 37835,
+          "endMs": 41827,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Серед імовірних виконавців\nслідство називає «Боксера» та\n«Пашу».",
+          "startMs": 41827,
+          "endMs": 45054,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Про дії за кордоном Абакумов\nговорить так.",
+          "startMs": 45054,
+          "endMs": 47900,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 170.4,
+      "end": 177.9,
+      "text": "Що давало змогу уникати викриття? У фільмі НАБУ пояснюють: йдеться про постійний витік службової інформації.",
+      "captions": [
+        {
+          "text": "Що давало змогу уникати\nвикриття?",
+          "startMs": 0,
+          "endMs": 2571,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "У фільмі НАБУ пояснюють:\nйдеться про постійний витік\nслужбової інформації.",
+          "startMs": 2571,
+          "endMs": 7500,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 190.4,
+      "end": 206.5,
+      "text": "НАБУ також заявляє про надходження трьох мільйонів семисот п’ятдесяти тисяч USDT на один гаманець із жовтня 2025-го до квітня 2026-го. Це загальна сума за період, а не місячний прибуток або всі збитки.",
+      "captions": [
+        {
+          "text": "НАБУ також заявляє про\nнадходження трьох мільйонів\nсемисот п’ятдесяти тисяч USDT",
+          "startMs": 0,
+          "endMs": 5383,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "на один гаманець із жовтня\n2025-го до квітня 2026-го.",
+          "startMs": 5383,
+          "endMs": 10007,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Це загальна сума за період, а не\nмісячний прибуток або всі\nзбитки.",
+          "startMs": 10007,
+          "endMs": 16100,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 206.5,
+      "end": 231.5,
+      "text": "Є й офіційна реакція Служби безпеки. Четвертого листопада СБУ повідомила про звільнення двох високопосадовців, які стали фігурантами розслідування. Очільник служби Олександр Поклад заявив про сприяння процесуальним діям і необхідність прозорого, об’єктивного та неупередженого розслідування. Це позиція відомства. Кадрове рішення саме по собі не є вироком суду або визнанням усіх звинувачень.",
+      "captions": [
+        {
+          "text": "Є й офіційна реакція Служби\nбезпеки.",
+          "startMs": 0,
+          "endMs": 3086,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Четвертого листопада СБУ\nповідомила про звільнення двох\nвисокопосадовців, які стали",
+          "startMs": 3086,
+          "endMs": 7871,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "фігурантами розслідування.",
+          "startMs": 7871,
+          "endMs": 9043,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Очільник служби Олександр\nПоклад заявив про сприяння\nпроцесуальним діям і",
+          "startMs": 9043,
+          "endMs": 13828,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "необхідність прозорого,\nоб’єктивного та неупередженого\nрозслідування.",
+          "startMs": 13828,
+          "endMs": 16914,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Це позиція відомства.",
+          "startMs": 16914,
+          "endMs": 18565,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Кадрове рішення саме по собі не\nє вироком",
+          "startMs": 18565,
+          "endMs": 22392,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "суду або визнанням усіх\nзвинувачень.",
+          "startMs": 22392,
+          "endMs": 25000,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "start": 231.5,
+      "end": 252,
+      "text": "Отже, нині маємо оприлюднені матеріали НАБУ і САП, журналістські повідомлення та реакцію СБУ. Які докази будуть визнані допустимими й чию вину доведуть, має визначити суд. Окремих перевірених відповідей усіх названих фігурантів у зібраних матеріалах немає. Презумпція невинуватості поширюється на кожного. Версія слідства — ще не вирок.",
+      "captions": [
+        {
+          "text": "Отже, нині маємо оприлюднені\nматеріали НАБУ і САП,\nжурналістські повідомлення та",
+          "startMs": 0,
+          "endMs": 4674,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "реакцію СБУ.",
+          "startMs": 4674,
+          "endMs": 5715,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Які докази будуть визнані\nдопустимими й чию вину\nдоведуть, має визначити суд.",
+          "startMs": 5715,
+          "endMs": 11004,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Окремих перевірених відповідей\nусіх названих фігурантів у\nзібраних матеріалах немає.",
+          "startMs": 11004,
+          "endMs": 15444,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Презумпція невинуватості\nпоширюється на кожного.",
+          "startMs": 15444,
+          "endMs": 17760,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Версія слідства — ще не вирок.",
+          "startMs": 17760,
+          "endMs": 20500,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    }
+  ],
+  "synchs": [
+    {
+      "fromFrame": 0,
+      "from": 0,
+      "to": 4.5,
+      "part": 2,
+      "source": 494.5,
+      "speaker": "НАБУ / САП · оригінальний звук",
+      "text": "Це був не поодинокий епізод, а системний бізнес на насильстві.",
+      "captions": [
+        {
+          "text": "Це був не поодинокий епізод,\nа системний бізнес на\nнасильстві.",
+          "startMs": 0,
+          "endMs": 4500,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "from": 18,
+      "to": 29.9,
+      "part": 1,
+      "source": 6.3,
+      "speaker": "Олександр Абакумов · НАБУ",
+      "text": "НАБУ та САП викрили злочинну організацію, що спеціалізувалась на шахрайстві, так званих колцентрах і розповсюдженні наркотичних засобів.",
+      "captions": [
+        {
+          "text": "НАБУ та САП викрили\nзлочинну організацію,",
+          "startMs": 0,
+          "endMs": 4000,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "що спеціалізувалась на\nшахрайстві, так званих\nколцентрах",
+          "startMs": 4000,
+          "endMs": 8800,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "і розповсюдженні\nнаркотичних засобів.",
+          "startMs": 8800,
+          "endMs": 11900,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "from": 67,
+      "to": 84.9,
+      "part": 1,
+      "source": 504.1,
+      "speaker": "Фільм НАБУ / САП · оригінальний звук",
+      "text": "Стандартна сума становила 7 тисяч доларів в місяць з одного колцентру. На початку місяця передавав адреси колцентрів з їхніми ідентифікаторами, а до п’ятого числа сплачував зазначену суму в криптовалюті на заздалегідь наданий правоохоронцями гаманець.",
+      "captions": [
+        {
+          "text": "Стандартна сума становила\n7 тисяч доларів в місяць\nз одного колцентру.",
+          "startMs": 0,
+          "endMs": 4800,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "На початку місяця передавав\nадреси колцентрів з їхніми\nідентифікаторами,",
+          "startMs": 4800,
+          "endMs": 10400,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "а до п’ятого числа сплачував\nзазначену суму в\nкриптовалюті",
+          "startMs": 10400,
+          "endMs": 14550,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "на заздалегідь наданий\nправоохоронцями гаманець.",
+          "startMs": 14550,
+          "endMs": 17900,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "from": 102,
+      "to": 117.1,
+      "part": 1,
+      "source": 539.4,
+      "speaker": "Фільм НАБУ / САП · оригінальний звук",
+      "text": "Як з’ясувало слідство, учасники злочинної організації координували діяльність щонайменше 52 колцентрів. В цих офісах працювало щонайменше 2700 людей, які щодня ошукували громадян України та інших країн.",
+      "captions": [
+        {
+          "text": "Як з’ясувало слідство,",
+          "startMs": 0,
+          "endMs": 2000,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "учасники злочинної\nорганізації",
+          "startMs": 2000,
+          "endMs": 4300,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "координували діяльність\nщонайменше 52 колцентрів.",
+          "startMs": 4300,
+          "endMs": 7500,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "В цих офісах працювало\nщонайменше 2700 людей,",
+          "startMs": 7500,
+          "endMs": 11600,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "які щодня ошукували\nгромадян України та інших\nкраїн.",
+          "startMs": 11600,
+          "endMs": 15100,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "from": 165,
+      "to": 170.4,
+      "part": 2,
+      "source": 511.8,
+      "speaker": "Олександр Абакумов · НАБУ",
+      "text": "Група виконувала подібні замовлення навіть за кордоном, зокрема у Відні.",
+      "captions": [
+        {
+          "text": "Група виконувала подібні\nзамовлення",
+          "startMs": 0,
+          "endMs": 2800,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "навіть за кордоном, зокрема\nу Відні.",
+          "startMs": 2800,
+          "endMs": 5400,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    },
+    {
+      "from": 177.9,
+      "to": 190.4,
+      "part": 2,
+      "source": 579.1,
+      "speaker": "Фільм НАБУ / САП · оригінальний звук",
+      "text": "Відчуття безкарності забезпечував постійний витік службової інформації. Щойно потерпілий звертався до поліції, замовники вже знали, хто розслідує справу, і запевняли спільників, що ситуація під контролем.",
+      "captions": [
+        {
+          "text": "Відчуття безкарності\nзабезпечував постійний витік\nслужбової інформації.",
+          "startMs": 0,
+          "endMs": 4600,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "Щойно потерпілий звертався\nдо поліції,",
+          "startMs": 4600,
+          "endMs": 6900,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "замовники вже знали, хто\nрозслідує справу,",
+          "startMs": 6900,
+          "endMs": 9300,
+          "timestampMs": null,
+          "confidence": null
+        },
+        {
+          "text": "і запевняли спільників, що\nситуація під контролем.",
+          "startMs": 9300,
+          "endMs": 12500,
+          "timestampMs": null,
+          "confidence": null
+        }
+      ]
+    }
+  ],
+  "accents": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "text": "НАБУ: ОРИГІНАЛЬНА\nРЕПЛІКА"
+    },
+    {
+      "start": 4.5,
+      "end": 12,
+      "text": "КАРФАГЕН:\nПРОДОВЖЕННЯ"
+    },
+    {
+      "start": 29.9,
+      "end": 39.9,
+      "text": "НОВИЙ ЕПІЗОД ·\n04.11.2026"
+    },
+    {
+      "start": 39.9,
+      "end": 50,
+      "text": "СИЛОВИКИ: ЗАЯВА НАБУ"
+    },
+    {
+      "start": 67,
+      "end": 84.9,
+      "text": "ПЛАТЕЖІ: ВЕРСІЯ\nСЛІДСТВА"
+    },
+    {
+      "start": 102,
+      "end": 117.1,
+      "text": "МАСШТАБ МЕРЕЖІ: ДАНІ\nНАБУ"
+    },
+    {
+      "start": 117.1,
+      "end": 129.1,
+      "text": "НЕ ЛИШЕ КОЛЦЕНТРИ"
+    },
+    {
+      "start": 129.1,
+      "end": 141.1,
+      "text": "ЗГАДКА НЕ ДОВОДИТЬ\nУЧАСТІ"
+    },
+    {
+      "start": 141.1,
+      "end": 153.1,
+      "text": "ТИСК НА ЖУРНАЛІСТІВ"
+    },
+    {
+      "start": 153.1,
+      "end": 165,
+      "text": "ПІДРОБЛЕНІ ЄВРО ТА\nНАСИЛЬСТВО"
+    },
+    {
+      "start": 165,
+      "end": 170.4,
+      "text": "ТВЕРДЖЕННЯ ПРО ДІЇ ЗА\nКОРДОНОМ"
+    },
+    {
+      "start": 170.4,
+      "end": 190.4,
+      "text": "ВИТОКИ СЛУЖБОВОЇ\nІНФОРМАЦІЇ"
+    },
+    {
+      "start": 190.4,
+      "end": 206.5,
+      "text": "3,75 МЛН USDT · ЗА\nДАНИМИ НАБУ"
+    },
+    {
+      "start": 206.5,
+      "end": 231.5,
+      "text": "ПИСЬМОВА РЕАКЦІЯ СБУ"
+    },
+    {
+      "start": 231.5,
+      "end": 252,
+      "text": "РІШЕННЯ — ЗА СУДОМ"
+    }
+  ],
+  "captions": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "text": "Це був не поодинокий епізод,\nа системний бізнес на\nнасильстві.",
+      "kind": "original"
+    },
+    {
+      "start": 4.5,
+      "end": 6.932262569832402,
+      "text": "Колцентри, наркотики та\nймовірне прикриття силовиків.",
+      "kind": "author"
+    },
+    {
+      "start": 6.932262569832402,
+      "end": 9.741620111731844,
+      "text": "НАБУ і САП оприлюднили\nпродовження операції\n«Карфаген».",
+      "kind": "author"
+    },
+    {
+      "start": 9.741620111731844,
+      "end": 13.682262569832403,
+      "text": "За версією слідства, до нової\nорганізації входили\nщонайменше дванадцять осіб.",
+      "kind": "author"
+    },
+    {
+      "start": 13.682262569832403,
+      "end": 15.944832402234638,
+      "text": "Що саме їм інкримінують,\nпояснює керівник",
+      "kind": "author"
+    },
+    {
+      "start": 15.944832402234638,
+      "end": 18,
+      "text": "підрозділу детективів НАБУ\nОлександр Абакумов.",
+      "kind": "author"
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "text": "НАБУ та САП викрили\nзлочинну організацію,",
+      "kind": "original"
+    },
+    {
+      "start": 22,
+      "end": 26.8,
+      "text": "що спеціалізувалась на\nшахрайстві, так званих\nколцентрах",
+      "kind": "original"
+    },
+    {
+      "start": 26.8,
+      "end": 29.9,
+      "text": "і розповсюдженні\nнаркотичних засобів.",
+      "kind": "original"
+    },
+    {
+      "start": 29.9,
+      "end": 35.01493076459964,
+      "text": "Це новий епізод операції, про\nяку антикорупційні органи\nповідомляли у вересні.",
+      "kind": "author"
+    },
+    {
+      "start": 35.01493076459964,
+      "end": 40.129861529199275,
+      "text": "Двадцять другого жовтня вони\nоголосили ще одну підозру в\nпопередньому епізоді.",
+      "kind": "author"
+    },
+    {
+      "start": 40.129861529199275,
+      "end": 42.56447922937989,
+      "text": "Тепер слідство описує іншу\nорганізацію.",
+      "kind": "author"
+    },
+    {
+      "start": 42.56447922937989,
+      "end": 47.031667670078264,
+      "text": "Її керівником називає\n«Кримінала», а одним із\nключових учасників —",
+      "kind": "author"
+    },
+    {
+      "start": 47.031667670078264,
+      "end": 47.67940999397953,
+      "text": "«Мексиканця».",
+      "kind": "author"
+    },
+    {
+      "start": 47.67940999397953,
+      "end": 53.241059602649,
+      "text": "Українська правда з посиланням\nна власні джерела пов’язує\n«Кримінала» з Андрієм Осіповим.",
+      "kind": "author"
+    },
+    {
+      "start": 53.241059602649,
+      "end": 54.78223961468995,
+      "text": "Це ідентифікація видання.",
+      "kind": "author"
+    },
+    {
+      "start": 54.78223961468995,
+      "end": 58.802709211318486,
+      "text": "У матеріалах також фігурують\nполіцейські «Прайс» і\n«Консультант» та",
+      "kind": "author"
+    },
+    {
+      "start": 58.802709211318486,
+      "end": 60.343889223359426,
+      "text": "високопосадовець СБУ «Акім».",
+      "kind": "author"
+    },
+    {
+      "start": 60.343889223359426,
+      "end": 63.91763997591813,
+      "text": "За версією детективів, їхні\nзв’язки забезпечували\nприкриття незаконної",
+      "kind": "author"
+    },
+    {
+      "start": 63.91763997591813,
+      "end": 64.56538229981939,
+      "text": "діяльності.",
+      "kind": "author"
+    },
+    {
+      "start": 64.56538229981939,
+      "end": 67,
+      "text": "Як описують платежі в НАБУ?",
+      "kind": "author"
+    },
+    {
+      "start": 67,
+      "end": 71.8,
+      "text": "Стандартна сума становила\n7 тисяч доларів в місяць\nз одного колцентру.",
+      "kind": "original"
+    },
+    {
+      "start": 71.8,
+      "end": 77.4,
+      "text": "На початку місяця передавав\nадреси колцентрів з їхніми\nідентифікаторами,",
+      "kind": "original"
+    },
+    {
+      "start": 77.4,
+      "end": 81.55,
+      "text": "а до п’ятого числа сплачував\nзазначену суму в\nкриптовалюті",
+      "kind": "original"
+    },
+    {
+      "start": 81.55,
+      "end": 84.9,
+      "text": "на заздалегідь наданий\nправоохоронцями гаманець.",
+      "kind": "original"
+    },
+    {
+      "start": 84.9,
+      "end": 88.6690828402367,
+      "text": "Це пояснення слідства, а не\nрішення суду.",
+      "kind": "author"
+    },
+    {
+      "start": 88.6690828402367,
+      "end": 92.43816568047338,
+      "text": "Окремий платіж не можна\nназивати загальними збитками.",
+      "kind": "author"
+    },
+    {
+      "start": 92.43816568047338,
+      "end": 98.23091715976332,
+      "text": "У фільмі також показано\nлистування про повернення\nвилученої техніки через суд.",
+      "kind": "author"
+    },
+    {
+      "start": 98.23091715976332,
+      "end": 102,
+      "text": "А ось як НАБУ оцінює масштаб\nмережі.",
+      "kind": "author"
+    },
+    {
+      "start": 102,
+      "end": 104,
+      "text": "Як з’ясувало слідство,",
+      "kind": "original"
+    },
+    {
+      "start": 104,
+      "end": 106.3,
+      "text": "учасники злочинної\nорганізації",
+      "kind": "original"
+    },
+    {
+      "start": 106.3,
+      "end": 109.5,
+      "text": "координували діяльність\nщонайменше 52 колцентрів.",
+      "kind": "original"
+    },
+    {
+      "start": 109.5,
+      "end": 113.6,
+      "text": "В цих офісах працювало\nщонайменше 2700 людей,",
+      "kind": "original"
+    },
+    {
+      "start": 113.6,
+      "end": 117.1,
+      "text": "які щодня ошукували\nгромадян України та інших\nкраїн.",
+      "kind": "original"
+    },
+    {
+      "start": 117.1,
+      "end": 118.79980063795853,
+      "text": "Розслідування не обмежується\nколцентрами.",
+      "kind": "author"
+    },
+    {
+      "start": 118.79980063795853,
+      "end": 122.40948963317383,
+      "text": "НАБУ також заявляє про\nконтакти «Мексиканця» з ФСБ\nРосії.",
+      "kind": "author"
+    },
+    {
+      "start": 122.40948963317383,
+      "end": 125.25522328548644,
+      "text": "Незалежного підтвердження\nцих зв’язків у нас немає.",
+      "kind": "author"
+    },
+    {
+      "start": 125.25522328548644,
+      "end": 129.45697767145134,
+      "text": "За версією НАБУ, «Мексиканець»\nпов’язаний із «Хімпромом», а\nфігуранти обговорювали бізнес",
+      "kind": "author"
+    },
+    {
+      "start": 129.45697767145134,
+      "end": 133.06666666666666,
+      "text": "мережі U420 та можливість\nвпливати на правила обігу\nречовин.",
+      "kind": "author"
+    },
+    {
+      "start": 133.06666666666666,
+      "end": 137.05833333333334,
+      "text": "У фільмі окремо зазначено:\nописаний план підкупу не\nвдалося реалізувати.",
+      "kind": "author"
+    },
+    {
+      "start": 137.05833333333334,
+      "end": 141.6420653907496,
+      "text": "Згадування посадовця в чужій\nрозмові не доводить, що він брав\nу цьому",
+      "kind": "author"
+    },
+    {
+      "start": 141.6420653907496,
+      "end": 143.34186602870813,
+      "text": "участь або отримував гроші.",
+      "kind": "author"
+    },
+    {
+      "start": 143.34186602870813,
+      "end": 146.5695773524721,
+      "text": "Ще один напрям — можливий\nтиск на журналістів.",
+      "kind": "author"
+    },
+    {
+      "start": 146.5695773524721,
+      "end": 150.94322169059012,
+      "text": "Слідство оприлюднило\nобговорення щодо Дениса Бігуса\nта інших критиків цієї діяльності.",
+      "kind": "author"
+    },
+    {
+      "start": 150.94322169059012,
+      "end": 154.9348883572568,
+      "text": "Погрози й обговорення планів не\nслід автоматично називати\nздійсненими нападами.",
+      "kind": "author"
+    },
+    {
+      "start": 154.9348883572568,
+      "end": 158.92655502392344,
+      "text": "Детективи також заявляють про\nпідроблення євро та ймовірні\nнасильницькі злочини.",
+      "kind": "author"
+    },
+    {
+      "start": 158.92655502392344,
+      "end": 162.1542663476874,
+      "text": "Серед імовірних виконавців\nслідство називає «Боксера» та\n«Пашу».",
+      "kind": "author"
+    },
+    {
+      "start": 162.1542663476874,
+      "end": 165,
+      "text": "Про дії за кордоном Абакумов\nговорить так.",
+      "kind": "author"
+    },
+    {
+      "start": 165,
+      "end": 167.8,
+      "text": "Група виконувала подібні\nзамовлення",
+      "kind": "original"
+    },
+    {
+      "start": 167.8,
+      "end": 170.4,
+      "text": "навіть за кордоном, зокрема\nу Відні.",
+      "kind": "original"
+    },
+    {
+      "start": 170.4,
+      "end": 172.97075471698113,
+      "text": "Що давало змогу уникати\nвикриття?",
+      "kind": "author"
+    },
+    {
+      "start": 172.97075471698113,
+      "end": 177.9,
+      "text": "У фільмі НАБУ пояснюють:\nйдеться про постійний витік\nслужбової інформації.",
+      "kind": "author"
+    },
+    {
+      "start": 177.9,
+      "end": 182.5,
+      "text": "Відчуття безкарності\nзабезпечував постійний витік\nслужбової інформації.",
+      "kind": "original"
+    },
+    {
+      "start": 182.5,
+      "end": 184.8,
+      "text": "Щойно потерпілий звертався\nдо поліції,",
+      "kind": "original"
+    },
+    {
+      "start": 184.8,
+      "end": 187.20000000000002,
+      "text": "замовники вже знали, хто\nрозслідує справу,",
+      "kind": "original"
+    },
+    {
+      "start": 187.20000000000002,
+      "end": 190.4,
+      "text": "і запевняли спільників, що\nситуація під контролем.",
+      "kind": "original"
+    },
+    {
+      "start": 190.4,
+      "end": 195.78297872340426,
+      "text": "НАБУ також заявляє про\nнадходження трьох мільйонів\nсемисот п’ятдесяти тисяч USDT",
+      "kind": "author"
+    },
+    {
+      "start": 195.78297872340426,
+      "end": 200.40744680851066,
+      "text": "на один гаманець із жовтня\n2025-го до квітня 2026-го.",
+      "kind": "author"
+    },
+    {
+      "start": 200.40744680851066,
+      "end": 206.5,
+      "text": "Це загальна сума за період, а не\nмісячний прибуток або всі\nзбитки.",
+      "kind": "author"
+    },
+    {
+      "start": 206.5,
+      "end": 209.58612440191388,
+      "text": "Є й офіційна реакція Служби\nбезпеки.",
+      "kind": "author"
+    },
+    {
+      "start": 209.58612440191388,
+      "end": 214.37081339712918,
+      "text": "Четвертого листопада СБУ\nповідомила про звільнення двох\nвисокопосадовців, які стали",
+      "kind": "author"
+    },
+    {
+      "start": 214.37081339712918,
+      "end": 215.54306220095694,
+      "text": "фігурантами розслідування.",
+      "kind": "author"
+    },
+    {
+      "start": 215.54306220095694,
+      "end": 220.32775119617224,
+      "text": "Очільник служби Олександр\nПоклад заявив про сприяння\nпроцесуальним діям і",
+      "kind": "author"
+    },
+    {
+      "start": 220.32775119617224,
+      "end": 223.41387559808612,
+      "text": "необхідність прозорого,\nоб’єктивного та неупередженого\nрозслідування.",
+      "kind": "author"
+    },
+    {
+      "start": 223.41387559808612,
+      "end": 225.06459330143542,
+      "text": "Це позиція відомства.",
+      "kind": "author"
+    },
+    {
+      "start": 225.06459330143542,
+      "end": 228.89234449760767,
+      "text": "Кадрове рішення саме по собі не\nє вироком",
+      "kind": "author"
+    },
+    {
+      "start": 228.89234449760767,
+      "end": 231.5,
+      "text": "суду або визнанням усіх\nзвинувачень.",
+      "kind": "author"
+    },
+    {
+      "start": 231.5,
+      "end": 236.17357512953367,
+      "text": "Отже, нині маємо оприлюднені\nматеріали НАБУ і САП,\nжурналістські повідомлення та",
+      "kind": "author"
+    },
+    {
+      "start": 236.17357512953367,
+      "end": 237.21450777202074,
+      "text": "реакцію СБУ.",
+      "kind": "author"
+    },
+    {
+      "start": 237.21450777202074,
+      "end": 242.5041450777202,
+      "text": "Які докази будуть визнані\nдопустимими й чию вину\nдоведуть, має визначити суд.",
+      "kind": "author"
+    },
+    {
+      "start": 242.5041450777202,
+      "end": 246.9440414507772,
+      "text": "Окремих перевірених відповідей\nусіх названих фігурантів у\nзібраних матеріалах немає.",
+      "kind": "author"
+    },
+    {
+      "start": 246.9440414507772,
+      "end": 249.25958549222798,
+      "text": "Презумпція невинуватості\nпоширюється на кожного.",
+      "kind": "author"
+    },
+    {
+      "start": 249.25958549222798,
+      "end": 252,
+      "text": "Версія слідства — ще не вирок.",
+      "kind": "author"
+    }
+  ]
+}
