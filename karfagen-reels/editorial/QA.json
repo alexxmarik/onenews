@@ -1,0 +1,33 @@
+{
+  "duration_seconds": 252,
+  "frames": 7560,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "audio_sample_rate": 48000,
+  "author_voice_generated": false,
+  "music_added": false,
+  "source_clips": 39,
+  "repeated_source_intervals": false,
+  "original_synchs": 4,
+  "original_audio_only_in_synch_windows": true,
+  "voiceover_silent": true,
+  "narration_synch_overlap": false,
+  "typescript_check": "passed",
+  "ffmpeg_full_decode": "passed",
+  "remotion_still_render": "passed with system Chromium",
+  "text_bounds": "passed",
+  "watermark_audit": {
+    "sampling_seconds": 1,
+    "samples": 252,
+    "method": "OCR of central source-image area plus visual contact-sheet and cut checks",
+    "candidate_count": 1,
+    "candidate_review": "false positive: Івано-Франківськ on source map; no media handle",
+    "limitation": "Sampling is not an exhaustive OCR check of every frame; player UI region found in earlier version was removed by replacing its source interval."
+  },
+  "sha256": "e3b3d09974b6ce664681f464fc5e3218cd7fb0ef938c219c55c9d4fd6b6f3a68",
+  "bytes": 36317900,
+  "source_quality_limit": "Screen recording; source film approximately 880x500; export does not restore original resolution"
+}

@@ -1,0 +1,706 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationFrames": 7560,
+  "clips": [
+    {
+      "id": "00",
+      "fromFrame": 0,
+      "durationFrames": 120,
+      "part": 1,
+      "sourceNormalStart": 424.9,
+      "sourceRecordingStart": 212.45,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/00.mp4"
+    },
+    {
+      "id": "01",
+      "fromFrame": 120,
+      "durationFrames": 120,
+      "part": 1,
+      "sourceNormalStart": 50,
+      "sourceRecordingStart": 25.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/01.mp4"
+    },
+    {
+      "id": "02",
+      "fromFrame": 240,
+      "durationFrames": 120,
+      "part": 2,
+      "sourceNormalStart": 58,
+      "sourceRecordingStart": 29.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/02.mp4"
+    },
+    {
+      "id": "03",
+      "fromFrame": 360,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 135,
+      "sourceRecordingStart": 67.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/03.mp4"
+    },
+    {
+      "id": "04",
+      "fromFrame": 540,
+      "durationFrames": 357,
+      "part": 1,
+      "sourceNormalStart": 6.3,
+      "sourceRecordingStart": 3.15,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/04.mp4"
+    },
+    {
+      "id": "05",
+      "fromFrame": 897,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 68.5,
+      "sourceRecordingStart": 34.25,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/05.mp4"
+    },
+    {
+      "id": "06",
+      "fromFrame": 1047,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 80,
+      "sourceRecordingStart": 40.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/06.mp4"
+    },
+    {
+      "id": "07",
+      "fromFrame": 1197,
+      "durationFrames": 153,
+      "part": 1,
+      "sourceNormalStart": 96,
+      "sourceRecordingStart": 48.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/07.mp4"
+    },
+    {
+      "id": "08",
+      "fromFrame": 1350,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 108,
+      "sourceRecordingStart": 54.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/08.mp4"
+    },
+    {
+      "id": "09",
+      "fromFrame": 1500,
+      "durationFrames": 150,
+      "part": 1,
+      "sourceNormalStart": 155,
+      "sourceRecordingStart": 77.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/09.mp4"
+    },
+    {
+      "id": "10",
+      "fromFrame": 1650,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 525,
+      "sourceRecordingStart": 262.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/10.mp4"
+    },
+    {
+      "id": "11",
+      "fromFrame": 1830,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 480,
+      "sourceRecordingStart": 240.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/11.mp4"
+    },
+    {
+      "id": "12",
+      "fromFrame": 2010,
+      "durationFrames": 144,
+      "part": 1,
+      "sourceNormalStart": 504.1,
+      "sourceRecordingStart": 252.05,
+      "mode": "wide",
+      "audio": true,
+      "file": "clips/12.mp4"
+    },
+    {
+      "id": "13",
+      "fromFrame": 2154,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 509,
+      "sourceRecordingStart": 254.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/13.mp4"
+    },
+    {
+      "id": "14",
+      "fromFrame": 2334,
+      "durationFrames": 186,
+      "part": 1,
+      "sourceNormalStart": 600,
+      "sourceRecordingStart": 300.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/14.mp4"
+    },
+    {
+      "id": "15",
+      "fromFrame": 2520,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 460,
+      "sourceRecordingStart": 230,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/15.mp4"
+    },
+    {
+      "id": "16",
+      "fromFrame": 2700,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 685,
+      "sourceRecordingStart": 342.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/16.mp4"
+    },
+    {
+      "id": "17",
+      "fromFrame": 2880,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 450,
+      "sourceRecordingStart": 225,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/17.mp4"
+    },
+    {
+      "id": "18",
+      "fromFrame": 3060,
+      "durationFrames": 453,
+      "part": 1,
+      "sourceNormalStart": 539.4,
+      "sourceRecordingStart": 269.7,
+      "mode": "wide",
+      "audio": true,
+      "file": "clips/18.mp4"
+    },
+    {
+      "id": "19",
+      "fromFrame": 3513,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1051,
+      "sourceRecordingStart": 525.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/19.mp4"
+    },
+    {
+      "id": "20",
+      "fromFrame": 3693,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1063,
+      "sourceRecordingStart": 531.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/20.mp4"
+    },
+    {
+      "id": "21",
+      "fromFrame": 3873,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1260,
+      "sourceRecordingStart": 630.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/21.mp4"
+    },
+    {
+      "id": "22",
+      "fromFrame": 4053,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1357,
+      "sourceRecordingStart": 678.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/22.mp4"
+    },
+    {
+      "id": "23",
+      "fromFrame": 4233,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1377,
+      "sourceRecordingStart": 688.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/23.mp4"
+    },
+    {
+      "id": "24",
+      "fromFrame": 4413,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 1440,
+      "sourceRecordingStart": 720.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/24.mp4"
+    },
+    {
+      "id": "25",
+      "fromFrame": 4593,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 70,
+      "sourceRecordingStart": 35.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/25.mp4"
+    },
+    {
+      "id": "26",
+      "fromFrame": 4773,
+      "durationFrames": 177,
+      "part": 2,
+      "sourceNormalStart": 235,
+      "sourceRecordingStart": 117.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/26.mp4"
+    },
+    {
+      "id": "27",
+      "fromFrame": 4950,
+      "durationFrames": 162,
+      "part": 2,
+      "sourceNormalStart": 511.8,
+      "sourceRecordingStart": 255.9,
+      "mode": "portrait",
+      "audio": true,
+      "file": "clips/27.mp4"
+    },
+    {
+      "id": "28",
+      "fromFrame": 5112,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 579,
+      "sourceRecordingStart": 289.5,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/28.mp4"
+    },
+    {
+      "id": "29",
+      "fromFrame": 5292,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 259,
+      "sourceRecordingStart": 129.5,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/29.mp4"
+    },
+    {
+      "id": "30",
+      "fromFrame": 5472,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 652,
+      "sourceRecordingStart": 326.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/30.mp4"
+    },
+    {
+      "id": "31",
+      "fromFrame": 5652,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 1255.8,
+      "sourceRecordingStart": 627.9,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/31.mp4"
+    },
+    {
+      "id": "32",
+      "fromFrame": 5832,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 1261.8,
+      "sourceRecordingStart": 630.9,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/32.mp4"
+    },
+    {
+      "id": "33",
+      "fromFrame": 6012,
+      "durationFrames": 183,
+      "part": 2,
+      "sourceNormalStart": 1285.5,
+      "sourceRecordingStart": 642.75,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/33.mp4"
+    },
+    {
+      "id": "34",
+      "fromFrame": 6195,
+      "durationFrames": 750,
+      "part": 1,
+      "sourceNormalStart": 317.5,
+      "sourceRecordingStart": 158.75,
+      "mode": "document",
+      "audio": false,
+      "file": "clips/34.mp4"
+    },
+    {
+      "id": "35",
+      "fromFrame": 6945,
+      "durationFrames": 180,
+      "part": 2,
+      "sourceNormalStart": 1371.7,
+      "sourceRecordingStart": 685.85,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/35.mp4"
+    },
+    {
+      "id": "36",
+      "fromFrame": 7125,
+      "durationFrames": 180,
+      "part": 1,
+      "sourceNormalStart": 118,
+      "sourceRecordingStart": 59.0,
+      "mode": "wide",
+      "audio": false,
+      "file": "clips/36.mp4"
+    },
+    {
+      "id": "37",
+      "fromFrame": 7305,
+      "durationFrames": 150,
+      "part": 2,
+      "sourceNormalStart": 1428,
+      "sourceRecordingStart": 714.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/37.mp4"
+    },
+    {
+      "id": "38",
+      "fromFrame": 7455,
+      "durationFrames": 105,
+      "part": 1,
+      "sourceNormalStart": 350,
+      "sourceRecordingStart": 175.0,
+      "mode": "portrait",
+      "audio": false,
+      "file": "clips/38.mp4"
+    }
+  ],
+  "narration": [
+    {
+      "start": 0,
+      "end": 18,
+      "text": "Колцентри, наркотики та ймовірне прикриття силовиків. НАБУ і САП оприлюднили продовження операції «Карфаген». За версією слідства, до нової організації входили щонайменше дванадцять осіб. Що саме їм інкримінують, пояснює керівник підрозділу детективів НАБУ Олександр Абакумов."
+    },
+    {
+      "start": 29.9,
+      "end": 67,
+      "text": "Це новий епізод операції, про яку антикорупційні органи повідомляли у вересні. Двадцять другого жовтня вони оголосили ще одну підозру в попередньому епізоді. Тепер слідство описує іншу організацію. Її керівником називає «Кримінала», а одним із ключових учасників — «Мексиканця». Українська правда з посиланням на власні джерела пов’язує «Кримінала» з Андрієм Осіповим. Це ідентифікація видання. У матеріалах також фігурують поліцейські «Прайс» і «Консультант» та високопосадовець СБУ «Акім». За версією детективів, їхні зв’язки забезпечували прикриття незаконної діяльності. Як описують платежі в НАБУ?"
+    },
+    {
+      "start": 71.8,
+      "end": 102,
+      "text": "За версією слідства, це була система щомісячного прикриття. У фільмі показано листування про офіси, розрахунки та взаємодію з представниками різних правоохоронних органів. Окремо детективи розповідають про спроби повернути вилучену техніку через суд. Повідомлення учасників і коментар слідства потрібно розрізняти: сам запис розмови не є судовим рішенням. А плату з одного офісу не можна називати загальними збитками. Ось як НАБУ оцінює масштаб мережі."
+    },
+    {
+      "start": 117.1,
+      "end": 165,
+      "text": "Розслідування не обмежується колцентрами. НАБУ також заявляє про контакти «Мексиканця» з ФСБ Росії. Незалежного підтвердження цих зв’язків у нас немає. За версією НАБУ, «Мексиканець» пов’язаний із «Хімпромом», а фігуранти обговорювали бізнес мережі U420 та можливість впливати на правила обігу речовин. У фільмі окремо зазначено: описаний план підкупу не вдалося реалізувати. Згадування посадовця в чужій розмові не доводить, що він брав у цьому участь або отримував гроші. Ще один напрям — можливий тиск на журналістів. Слідство оприлюднило обговорення щодо Дениса Бігуса та інших критиків цієї діяльності. Погрози й обговорення планів не слід автоматично називати здійсненими нападами. Детективи також заявляють про підроблення євро та ймовірні насильницькі злочини. Про дії виконавців за кордоном Абакумов говорить так."
+    },
+    {
+      "start": 170.4,
+      "end": 206.5,
+      "text": "Серед імовірних виконавців слідство називає «Боксера» та «Пашу». За даними НАБУ, їм допомагали витоки службової інформації, доступ до баз та камер системи «Безпечне місто». У фільмі показано документи й листування, які детективи пов’язують із цим прикриттям. Окремо бюро заявляє: на один із криптогаманців із шістнадцятого жовтня дві тисячі двадцять п’ятого до двадцять п’ятого квітня дві тисячі двадцять шостого року надійшло три мільйони сімсот п’ятдесят тисяч USDT. Це сукупні надходження за період, а не місячний прибуток і не доведений розмір усіх збитків."
+    },
+    {
+      "start": 206.5,
+      "end": 231.5,
+      "text": "Є й офіційна реакція Служби безпеки. Четвертого листопада СБУ повідомила про звільнення двох високопосадовців, які стали фігурантами розслідування. Очільник служби Олександр Поклад заявив про сприяння процесуальним діям і необхідність прозорого, об’єктивного та неупередженого розслідування. Це позиція відомства. Кадрове рішення саме по собі не є вироком суду або визнанням усіх звинувачень."
+    },
+    {
+      "start": 231.5,
+      "end": 252,
+      "text": "Отже, нині маємо оприлюднені матеріали НАБУ і САП, журналістські повідомлення та реакцію СБУ. Які докази будуть визнані допустимими й чию вину доведуть, має визначити суд. Окремих перевірених відповідей усіх названих фігурантів у зібраних матеріалах немає. Презумпція невинуватості поширюється на кожного. Версія слідства — ще не вирок."
+    }
+  ],
+  "synchs": [
+    {
+      "from": 18,
+      "to": 29.9,
+      "part": 1,
+      "source": 6.3,
+      "speaker": "Олександр Абакумов · НАБУ",
+      "text": "НАБУ та САП викрили злочинну організацію, що спеціалізувалась на шахрайстві, так званих колцентрах і розповсюдженні наркотичних засобів.",
+      "captions": [
+        [
+          0,
+          4,
+          "НАБУ та САП викрили\nзлочинну організацію,"
+        ],
+        [
+          4,
+          8.8,
+          "що спеціалізувалась на шахрайстві,\nтак званих колцентрах"
+        ],
+        [
+          8.8,
+          11.9,
+          "і розповсюдженні\nнаркотичних засобів."
+        ]
+      ]
+    },
+    {
+      "from": 67,
+      "to": 71.8,
+      "part": 1,
+      "source": 504.1,
+      "speaker": "Олександр Абакумов · фільм НАБУ/САП",
+      "text": "Стандартна сума становила 7 тисяч доларів в місяць з одного колцентру.",
+      "captions": [
+        [
+          0,
+          2.6,
+          "Стандартна сума становила\n7 тисяч доларів"
+        ],
+        [
+          2.6,
+          4.8,
+          "в місяць\nз одного колцентру."
+        ]
+      ]
+    },
+    {
+      "from": 102,
+      "to": 117.1,
+      "part": 1,
+      "source": 539.4,
+      "speaker": "Олександр Абакумов · фільм НАБУ/САП",
+      "text": "Як з’ясувало слідство, учасники злочинної організації координували діяльність щонайменше 52 колцентрів. В цих офісах працювало щонайменше 2700 людей, які щодня ошукували громадян України та інших країн.",
+      "captions": [
+        [
+          0,
+          2,
+          "Як з’ясувало слідство,"
+        ],
+        [
+          2,
+          6.8,
+          "учасники злочинної організації\nкоординували діяльність\nщонайменше 52 колцентрів."
+        ],
+        [
+          6.8,
+          11.1,
+          "В цих офісах працювало\nщонайменше 2700 людей,"
+        ],
+        [
+          11.1,
+          15.1,
+          "які щодня ошукували громадян\nУкраїни та інших країн."
+        ]
+      ]
+    },
+    {
+      "from": 165,
+      "to": 170.4,
+      "part": 2,
+      "source": 511.8,
+      "speaker": "Олександр Абакумов · НАБУ",
+      "text": "Група виконувала подібні замовлення навіть за кордоном, зокрема у Відні.",
+      "captions": [
+        [
+          0,
+          3.6,
+          "Група виконувала подібні замовлення\nнавіть за кордоном,"
+        ],
+        [
+          3.6,
+          5.4,
+          "зокрема у Відні."
+        ]
+      ]
+    }
+  ],
+  "accents": [
+    {
+      "start": 0,
+      "end": 4,
+      "text": "КАРФАГЕН:\nНОВИЙ ЕПІЗОД",
+      "mode": "portrait",
+      "detail": ""
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "text": "ЩОНАЙМЕНШЕ\n12 УЧАСНИКІВ",
+      "mode": "wide",
+      "detail": "За повідомленням НАБУ і САП"
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "text": "ЯК ПРАЦЮВАЛО\nПРИКРИТТЯ?",
+      "mode": "wide",
+      "detail": ""
+    },
+    {
+      "start": 29.9,
+      "end": 39.9,
+      "text": "НОВИЙ ЕПІЗОД\n04.11.2026",
+      "mode": "wide",
+      "detail": "Вересневі та листопадові матеріали розділяємо"
+    },
+    {
+      "start": 39.9,
+      "end": 50,
+      "text": "ПОЛІЦІЯ. СБУ.\nПРОКУРАТУРА.",
+      "mode": "wide",
+      "detail": "Твердження слідства про окремих посадовців"
+    },
+    {
+      "start": 61,
+      "end": 67,
+      "text": "ЙМОВІРНЕ\nПРИКРИТТЯ",
+      "mode": "portrait",
+      "detail": ""
+    },
+    {
+      "start": 77.8,
+      "end": 84,
+      "text": "ЛИСТУВАННЯ\nУ МАТЕРІАЛАХ\nСЛІДСТВА",
+      "mode": "wide",
+      "detail": ""
+    },
+    {
+      "start": 117.1,
+      "end": 123.1,
+      "text": "НЕ ЛИШЕ\nКОЛЦЕНТРИ",
+      "mode": "wide",
+      "detail": ""
+    },
+    {
+      "start": 129.1,
+      "end": 135.1,
+      "text": "ОБГОВОРЕННЯ ≠\nДОВЕДЕНА УЧАСТЬ",
+      "mode": "portrait",
+      "detail": ""
+    },
+    {
+      "start": 141.1,
+      "end": 147.1,
+      "text": "ТИСК\nНА ЖУРНАЛІСТІВ",
+      "mode": "wide",
+      "detail": "За версією НАБУ"
+    },
+    {
+      "start": 153.1,
+      "end": 159.1,
+      "text": "ПІДРОБЛЕНІ ЄВРО:\nЗАЯВА НАБУ",
+      "mode": "wide",
+      "detail": ""
+    },
+    {
+      "start": 159.1,
+      "end": 165,
+      "text": "НАПАДИ\nЙ ВИКРАДЕННЯ",
+      "mode": "wide",
+      "detail": "Версія слідства"
+    },
+    {
+      "start": 170.4,
+      "end": 176.4,
+      "text": "ВИТОКИ СЛУЖБОВОЇ\nІНФОРМАЦІЇ",
+      "mode": "portrait",
+      "detail": ""
+    },
+    {
+      "start": 188.4,
+      "end": 200.4,
+      "text": "3,75 МЛН USDT",
+      "mode": "portrait",
+      "detail": "16.10.2025–25.04.2026\nНадходження на один гаманець, за даними НАБУ"
+    },
+    {
+      "start": 206.5,
+      "end": 214.5,
+      "text": "РЕАКЦІЯ СБУ",
+      "mode": "document",
+      "detail": "Повідомлено про звільнення\nдвох високопосадовців із займаних посад."
+    },
+    {
+      "start": 214.5,
+      "end": 223,
+      "text": "ПОЗИЦІЯ ВІДОМСТВА",
+      "mode": "document",
+      "detail": "СБУ заявляє про підтримку\nта сприяння процесуальним діям."
+    },
+    {
+      "start": 223,
+      "end": 231.5,
+      "text": "ОБ’ЄКТИВНЕ\nРОЗСЛІДУВАННЯ",
+      "mode": "document",
+      "detail": "СБУ очікує прозорого, об’єктивного\nта неупередженого розслідування.\nКадрове рішення не є вироком."
+    },
+    {
+      "start": 231.5,
+      "end": 243.5,
+      "text": "РІШЕННЯ —\nЗА СУДОМ",
+      "mode": "portrait",
+      "detail": ""
+    },
+    {
+      "start": 243.5,
+      "end": 252,
+      "text": "ПРЕЗУМПЦІЯ\nНЕВИНУВАТОСТІ",
+      "mode": "portrait",
+      "detail": ""
+    }
+  ]
+}
