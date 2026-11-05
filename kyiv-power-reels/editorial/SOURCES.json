@@ -1,0 +1,98 @@
+{
+  "as_of": "2026-11-05",
+  "sources": [
+    {
+      "url": "https://t.me/kyivtv/158310",
+      "publication_date": "2026-11-04",
+      "purpose": "Два ракурси відео; дата публікації, не незалежна дата зйомки"
+    },
+    {
+      "url": "https://t.me/kievreal1/140301",
+      "publication_date": "2026-11-04",
+      "purpose": "Опубліковані скриншоти скарг, не незалежна перевірка відключень"
+    },
+    {
+      "url": "https://t.me/Ukrenergo/5611",
+      "publication_date": "2026-11-05",
+      "purpose": "Аварійні відключення"
+    },
+    {
+      "url": "https://t.me/energyofukraine/8229",
+      "publication_date": "2026-11-05",
+      "purpose": "Пояснення повторних обмежень"
+    },
+    {
+      "url": "https://t.me/dtek_ua/4489",
+      "publication_date": "2026-08-25",
+      "purpose": "Заява про інвестиції в мережі"
+    },
+    {
+      "url": "https://t.me/Denys_Smyhal/13230",
+      "publication_date": "2026-11-03",
+      "purpose": "Заява про захист"
+    },
+    {
+      "url": "https://t.me/KyivCityOfficial/22400",
+      "publication_date": "2026-11-05",
+      "purpose": "Позиція міста"
+    },
+    {
+      "url": "https://t.me/dtek_ua/4785",
+      "publication_date": "2026-11-05",
+      "purpose": "Київ: екстрені відключення"
+    },
+    {
+      "url": "https://t.me/dtek_ua/4786",
+      "publication_date": "2026-11-05",
+      "purpose": "Київщина: екстрені відключення"
+    },
+    {
+      "url": "https://t.me/VA_Kyiv/22399",
+      "publication_date": "2026-11-04",
+      "purpose": "Пункти Незламності та бювети"
+    },
+    {
+      "url": "https://t.me/kyivoda/64391",
+      "publication_date": "2026-11-05",
+      "purpose": "Приклад резервного живлення громади"
+    }
+  ],
+  "files": [
+    {
+      "file": "public/overhead-source.mp4",
+      "sha256": "932a043bf8d5fb7d8ef4030528ed38abbe649aec2ff20d8cc2400cff9effadba"
+    },
+    {
+      "file": "public/street-source.mp4",
+      "sha256": "b045bb0f2dd3e1e036a5a2b3fe37ef120bad22599b68a596997dab74095ee65a"
+    },
+    {
+      "file": "public/documents/summer-mobile-source.png",
+      "sha256": "c07a233d8d6e1ba70cd9baa49a385b2a42c8f3fff55d626758d7b9359ae99891"
+    },
+    {
+      "file": "public/documents/kievreal1-140301-photo0.jpg",
+      "sha256": "9176c6d92ad6350ea513d4646c90b970220787b390fa2225fed2341d3cb10e34"
+    },
+    {
+      "file": "public/documents/city-mobile-source.png",
+      "sha256": "313ad6074b81ddc7df5a30f5198b0dce133935101eec7902684aa9aaca9b45a2"
+    },
+    {
+      "file": "public/documents/kievreal1-140301-photo2.jpg",
+      "sha256": "59ce24c172322cf6939e51100be334e24f68953f99822e7155c6b63916b67221"
+    },
+    {
+      "file": "public/documents/ukrenergo-mobile-source.png",
+      "sha256": "1c047e6999e0772034ebdeb1912b182645cf7cc4ff7fee63dc3128ff672dfef8"
+    },
+    {
+      "file": "public/documents/ministry-mobile-source.png",
+      "sha256": "c912c68ba4539a79873ff54a1fd800484c87c34deca045fb329d5c3444b3bbd6"
+    },
+    {
+      "file": "public/documents/shmyhal-mobile-source.png",
+      "sha256": "e8d3e9bcae0fa1c862ba69e9b655ca5dbfcf6737b072378b3a327018250cd09f"
+    }
+  ]
+}

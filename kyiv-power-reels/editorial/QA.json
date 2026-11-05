@@ -1,0 +1,20 @@
+{
+  "duration_seconds": 69.6,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 2088,
+  "source_video_ranges_unique": true,
+  "timeline_contiguous": true,
+  "caption_pages": 22,
+  "max_caption_lines": 2,
+  "voice_generated": false,
+  "future_voice_track": "public/audio/VOICEOVER.wav, 00:00–01:09.600",
+  "decode": "passed, ffmpeg exit 0",
+  "full_black_intervals": [],
+  "audio": [
+    "[Parsed_volumedetect_0 @ 0x7f4ea0002400] mean_volume: -91.0 dB",
+    "[Parsed_volumedetect_0 @ 0x7f4ea0002400] max_volume: -91.0 dB"
+  ],
+  "visual_check": "Source frames and final contact sheets reviewed; lettering improved with responsive browser captures; original captions and media marks removed from selected video areas. Source quality remains limited."
+}
