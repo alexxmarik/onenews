@@ -36,7 +36,7 @@
       "start_time": "0.000000",
       "duration_ts": 1069056,
       "duration": "69.600000",
-      "bit_rate": "1518917",
+      "bit_rate": "1518718",
       "bits_per_raw_sample": "8",
       "nb_frames": "2088",
       "extradata_size": 44,
@@ -122,7 +122,7 @@
     }
   ],
   "format": {
-    "filename": "out/KYIV-POWER-2026-11-05.mp4",
+    "filename": "out/KYIV-POWER-NO-LINKS.mp4",
     "nb_streams": 2,
     "nb_programs": 0,
     "nb_stream_groups": 0,
@@ -130,8 +130,8 @@
     "format_long_name": "QuickTime / MOV",
     "start_time": "0.000000",
     "duration": "69.600000",
-    "size": "13295899",
-    "bit_rate": "1528264",
+    "size": "13294164",
+    "bit_rate": "1528064",
     "probe_score": 100,
     "tags": {
       "major_brand": "isom",

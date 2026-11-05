@@ -47,10 +47,10 @@ def evt(a,b,s,text,tag=''):
 for x in subs:ass+=evt(x['start'],x['end'],'Caption',x['text'])
 ass+=evt(0,3.3,'Title','ЗИМА ПОПЕРЕДУ.\nДЕ РЕЗУЛЬТАТ\nПІДГОТОВКИ?',r'{\fad(120,120)}')
 ass+=evt(65.6,69.6,'Title','СКІЛЬКИ ГОДИН\nВИ БУЛИ БЕЗ СВІТЛА?',r'{\fad(100,100)}')
-labels={'complaint-day':'Скарга мешканця · скриншот оприлюднено 04.11.2026\nПублікація: t.me/kievreal1/140301','complaint-short':'Скарга мешканки · скриншот оприлюднено 04.11.2026\nПублікація: t.me/kievreal1/140301','ukrenergo':'Укренерго · 05.11.2026\nt.me/Ukrenergo/5611','ministry':'Міненерго · 05.11.2026\nt.me/energyofukraine/8229','summer':'ДТЕК · повідомлення 25.08.2026\nt.me/dtek_ua/4489 · дані по мережах компанії','shmyhal':'Денис Шмигаль · повідомлення 03.11.2026\nt.me/Denys_Smyhal/13230 · дані по країні','city':'КМДА · позиція Віталія Кличка · 05.11.2026\nt.me/KyivCityOfficial/22400'}
+labels={'complaint-day':'Скарга мешканця · скриншот оприлюднено 04.11.2026\n','complaint-short':'Скарга мешканки · скриншот оприлюднено 04.11.2026\n','ukrenergo':'Укренерго · 05.11.2026\n','ministry':'Міненерго · 05.11.2026\n','summer':'ДТЕК · повідомлення 25.08.2026\nДані по мережах компанії','shmyhal':'Денис Шмигаль · повідомлення 03.11.2026\nДані по країні','city':'КМДА · позиція Віталія Кличка · 05.11.2026\n'}
 for c in d['clips']:
  a=c['start'];b=a+c['duration'];k=c['kind']
- if k in ['a','b']:ass+=evt(a,b,'Source','Київ · відео оприлюднено 04.11.2026\nДжерело: Київ24 · t.me/kyivtv/158310')
+ if k in ['a','b']:ass+=evt(a,b,'Source','Київ · відео оприлюднено 04.11.2026\nДжерело: Київ24')
  elif k in labels:ass+=evt(a,b,'Source',labels[k],r'{\pos(540,330)}')
 (p/'editorial/editorial.ass').write_text(ass)
 (p/'editorial/SUBTITLES.srt').write_text('\n\n'.join(f'{i+1}\n{st(x["start"])} --> {st(x["end"])}\n{x["text"]}' for i,x in enumerate(subs))+'\n')
