@@ -1,0 +1,2 @@
+azov-history/delivery/*.mp4 filter=lfs diff=lfs merge=lfs -text
+azov-history/delivery/*.zip filter=lfs diff=lfs merge=lfs -text

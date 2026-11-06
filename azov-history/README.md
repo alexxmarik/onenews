@@ -1,6 +1,6 @@
 # Історія «Азову»: 2014–2022
 
-[Завантажити фільм MP4](https://github.com/alexxmarik/onenews/releases/download/azov-history-2026-11-06/AZOV_HISTORY_2014_2022_HQ.mp4) · [Без музики](https://github.com/alexxmarik/onenews/releases/download/azov-history-2026-11-06/AZOV_HISTORY_NO_MUSIC.mp4) · [Монтажний проєкт](https://github.com/alexxmarik/onenews/releases/download/azov-history-2026-11-06/AZOV_EDIT_PACKAGE.zip) · [Дослідження й тексти](https://github.com/alexxmarik/onenews/releases/download/azov-history-2026-11-06/AZOV_RESEARCH_PACKAGE.zip)
+[Завантажити фільм MP4](https://media.githubusercontent.com/media/alexxmarik/onenews/video-canada-2026-10-31/azov-history/delivery/AZOV_HISTORY_2014_2022_HQ.mp4) · [Без музики](https://media.githubusercontent.com/media/alexxmarik/onenews/video-canada-2026-10-31/azov-history/delivery/AZOV_HISTORY_NO_MUSIC.mp4) · [Монтажний проєкт](https://media.githubusercontent.com/media/alexxmarik/onenews/video-canada-2026-10-31/azov-history/delivery/AZOV_EDIT_PACKAGE.zip) · [Дослідження й тексти](https://media.githubusercontent.com/media/alexxmarik/onenews/video-canada-2026-10-31/azov-history/delivery/AZOV_RESEARCH_PACKAGE.zip)
 
 Документальний монтаж, 1080×1920, 30 fps, H.264/AAC, 14:33.333.
 
