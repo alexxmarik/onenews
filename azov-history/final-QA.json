@@ -1,0 +1,59 @@
+{
+  "clip_frame_counts": "PASS",
+  "clips": 134,
+  "duration_seconds": 873.3333333333334,
+  "repeated_source_video_intervals": "NONE",
+  "subtitle_bounds": "PASS",
+  "caption_pages": 246,
+  "original_only_in_statement_windows": "PASS",
+  "native_statements": [
+    {
+      "scene": 3,
+      "start": 78.56666666666666,
+      "end": 89.89999999999999,
+      "rms_dbfs": -18.410073811696044
+    },
+    {
+      "scene": 7,
+      "start": 170.8,
+      "end": 180.83333333333334,
+      "rms_dbfs": -21.685055079697403
+    },
+    {
+      "scene": 10,
+      "start": 233.66666666666666,
+      "end": 240.83333333333331,
+      "rms_dbfs": -17.559184882777984
+    },
+    {
+      "scene": 16,
+      "start": 370.8333333333333,
+      "end": 401.1333333333333,
+      "rms_dbfs": -19.091973641759708
+    },
+    {
+      "scene": 26,
+      "start": 650.7333333333333,
+      "end": 655.4333333333334,
+      "rms_dbfs": -18.313172406345856
+    },
+    {
+      "scene": 31,
+      "start": 759.2333333333333,
+      "end": 767.2,
+      "rms_dbfs": -18.471960873981445
+    },
+    {
+      "scene": 33,
+      "start": 795.2333333333333,
+      "end": 813.5,
+      "rms_dbfs": -21.88474123106615
+    }
+  ],
+  "future_voiceover": "SILENT, FULL LENGTH FROM 00:00",
+  "music_under_original_statements": "SILENT",
+  "final_codec": "H264 High / AAC LC",
+  "final_size_bytes": 332135612,
+  "black_intervals": [],
+  "full_decode": "PASS"
+}
